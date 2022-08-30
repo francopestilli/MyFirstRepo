@@ -16,3 +16,4 @@ Hi, This is my very first file. I am a teacher and I like to write code.
 I like tables:
 
 | this is | the header | of my new | Table |
+| --- | --- | --- | --- |
