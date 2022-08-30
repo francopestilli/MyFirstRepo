@@ -18,3 +18,4 @@ I like tables:
 | this is | the header | of my new | Table |
 | --- | --- | --- | --- |
 | I can | write | anything | here |
+| 2.3 | 3.4 | 555 | 43 |
